@@ -1,7 +1,4 @@
-# zenefria-dev
-not much at this time...
+# zenefria-dev -- a git repository by Ed B.
 
-Testing a github git repository.
-
-Checking mail delivery options.
-Looks like this might work OK.
+Checking mail delivery options from github to PSC.EDU.
+Looks like this might work.
