@@ -3,5 +3,5 @@ not much at this time...
 
 Testing a github git repository.
 
-Here's a line difference.
-Maybe two.
+Checking mail delivery options.
+Looks like this might work OK.
